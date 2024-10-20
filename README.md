@@ -1,6 +1,9 @@
-# Music-Player!![Screenshot 2024-10-20 114151](https://github.com/user-attachments/assets/b1a0847c-fff3-4514-a177-6318eff76380)
-![Screenshot 2024-10-20 114138](https://github.com/user-attachments/assets/3934152b-7b4b-4824-aa0f-679651cb7920)
-![Screenshot 2024-10-20 114107](https://github.com/user-attachments/assets/182a3556-bc42-4083-a475-5671475be88e)
-![Screenshot 2024-10-20 114038](https://github.com/user-attachments/assets/a7e339fe-b593-4d39-a677-be1dd29f0b01)
-![Screenshot 2024-10-20 114022](https://github.com/user-attachments/assets/64aae546-f518-40bc-8d97-2ea22a71dba2)
+# Music-Player! Demo screenshots
 
+![p1](https://github.com/user-attachments/assets/eb5006bf-316f-4e7e-8839-16914792bded)
+
+![p2](https://github.com/user-attachments/assets/ab62e8f0-dc89-4b4a-9e83-5363e0cde891)
+
+![p3](https://github.com/user-attachments/assets/83ae5ba2-13b7-4726-b427-f1c6418c7ea7)
+
+![p4](https://github.com/user-attachments/assets/0d1f1154-02b1-4a05-bbe0-2782721d0b9b)
